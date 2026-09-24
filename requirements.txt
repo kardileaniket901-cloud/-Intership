@@ -4,3 +4,6 @@ numpy
 plotly
 matplotlib
 openpyxl
+scikit-learn
+seaborn
+statsmodels
